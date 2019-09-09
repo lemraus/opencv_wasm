@@ -1,0 +1,23 @@
+{
+  "name": "@lemraus/opencv_wasm",
+  "version": "1.0.0",
+  "description": "OpenCV WASM binaries built from OpenCV 3.4.5 source files and Emscripten. ALLOW_MEMORY_GROWTH is enabled and USE_PTHREADS is disabled.",
+  "main": "opencv_wasm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lemraus/opencv_wasm.git"
+  },
+  "keywords": [
+    "opencv",
+    "wasm"
+  ],
+  "author": "lemraus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lemraus/opencv_wasm/issues"
+  },
+  "homepage": "https://github.com/Lemraus/opencv_wasm#readme"
+}
