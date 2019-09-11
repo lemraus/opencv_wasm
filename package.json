@@ -1,6 +1,6 @@
 {
   "name": "@lemraus/opencv_wasm",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "OpenCV WASM binaries built from OpenCV 3.4.5 source files and Emscripten. ALLOW_MEMORY_GROWTH is enabled and USE_PTHREADS is disabled.",
   "main": "opencv_wasm.js",
   "scripts": {
